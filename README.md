@@ -9,7 +9,7 @@ This project is my personal C++ application set up using CMake for build system 
 
 Before you begin, ensure you have the following installed:
 
-- **C++ Compiler** (GCC, Clang, MSVC, etc.)
+- **C++ Compiler** (GCC, Clang, MSVC, etc., but here I have MSVC)
 - **CMake** (version 3.29 or later recommended)
 - **vcpkg** (for package management)
 - **Git** (to clone repositories and manage dependencies)
