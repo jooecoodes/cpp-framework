@@ -1,0 +1,10 @@
+{
+  "dependencies": [
+    "fmt",
+    "nlohmann-json",
+    {
+      "name": "curl",
+      "features": ["winssl"]
+    } 
+  ]
+}
