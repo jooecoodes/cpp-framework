@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is my personal C++ application set up using CMake for build system generator and vcpkg for package management. It provides a streamlined approach to dependency handling and cross-platform development.
+This project is my personal C++ application set up using CMake for build system generator and vcpkg for package management. It provides a streamlined approach to dependency handling.
 
 ## Prerequisites
 
